@@ -451,7 +451,7 @@ function Login() {
     <main className="flex min-h-[70vh] items-center justify-center bg-slate-50 px-5 py-16">
       <div className="w-full max-w-md rounded-[2rem] border border-slate-200 bg-white p-8 shadow-sm">
         <h1 className="text-3xl font-bold tracking-tight text-slate-950">Login</h1>
-        <p className="mt-3 text-slate-600">This dashboard is currently under development.</p>
+        <p className="mt-3 text-slate-600">Access is available to approved merchants and partners.</p>
         <div className="mt-8 space-y-4">
           <input className="w-full rounded-2xl border border-slate-300 px-4 py-3 outline-none transition focus:border-teal-500 focus:ring-4 focus:ring-teal-100" placeholder="Email" />
           <input className="w-full rounded-2xl border border-slate-300 px-4 py-3 outline-none transition focus:border-teal-500 focus:ring-4 focus:ring-teal-100" placeholder="Password" type="password" />
