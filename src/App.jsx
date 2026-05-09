@@ -32,7 +32,7 @@ const i18n = {
     nav: { home: "Home", privacy: "Privacy Policy", terms: "Terms", contact: "Contact", login: "Login" },
     subtitle: "TikTok Shop & Ads SaaS",
     badge: "Built for TikTok Shop sellers and advertisers",
-    heroTitle: "TikTok Shop automation for listings, ads, and reports.",
+    heroTitle: "TikTok Shop automation for listings, ads, and reports",
     heroDesc:
       "Xopengen is a SaaS platform for TikTok Shop sellers, agencies, and cross-border ecommerce teams. We help merchants automate product listing workflows, order synchronization, affiliate collaboration, TikTok Ads reporting, and business analytics.",
     contactUs: "Contact Us",
@@ -126,7 +126,7 @@ const i18n = {
     nav: { home: "首页", privacy: "隐私政策", terms: "服务条款", contact: "联系我们", login: "登录" },
     subtitle: "TikTok Shop 与广告 SaaS",
     badge: "面向 TikTok Shop 商家与广告主",
-    heroTitle: "TikTok Shop 商品、广告与报表自动化工具。",
+    heroTitle: "TikTok Shop 商品、广告与报表自动化工具",
     heroDesc:
       "Xopengen 是面向 TikTok Shop 商家、服务商和跨境电商团队的 SaaS 平台，帮助商家处理商品上架、订单同步、达人协作、TikTok Ads 报表和经营分析等流程。",
     contactUs: "联系我们",
